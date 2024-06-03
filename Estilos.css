@@ -1,0 +1,33 @@
+CSS estilos
+body {
+	color:white;
+}
+body {
+	background-color:lightblue;
+}
+.container {
+	margin:1px;
+	padding:10px;
+	background-color:blue;
+	border:2px solid blue;
+	width: 35%;
+}
+.box {
+	padding:20px;
+	background-color:lightblue;
+	border: 1px solid blue;
+	margin-bottom:1px;
+	width: 90%;
+}
+video{
+	border:2px solid blue;
+	margin-top:1px;
+}
+.hidden-text {
+	display:none;
+}
+.img-container {
+	text-align: center;
+	display: block;
+}
+ 
